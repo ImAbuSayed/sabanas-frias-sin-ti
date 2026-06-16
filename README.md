@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-frias-sin-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sábanas frías sin ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-frias-sin-ti/) |
+| **Get License** | [Secure Licensing Rights for Sábanas frías sin ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-frias-sin-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas frías sin ti, la noche me llama,
+> tu perfume sigue impregnao' en mi cama.
+> Nena, tú sabes que esta llama no se apaga,
+> dando mil vueltas por Madrid de madrugada.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
